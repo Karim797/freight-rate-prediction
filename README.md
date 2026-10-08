@@ -68,6 +68,10 @@ The provided scorer validates the submission format and writes `scorer_results/c
 
 The model uses a fixed random seed. Package requirements are pinned in `requirements.txt`.
 
+## Video walkthrough
+
+[Watch the Loom walkthrough](https://www.loom.com/share/9e961052d1604a29867e06c4a34257ea)
+
 ## Submission outputs
 
 - `validation_predictions.csv`: generated locally for all 12,000 validation loads and submitted separately as required.
